@@ -1,4 +1,4 @@
-# Lajto's FreeBSD desktop config
+# Michael's FreeBSD desktop config
 My personal configuration for FreeBSD in desktop. It's designed for my personal
 case, so please don't use it.
 
